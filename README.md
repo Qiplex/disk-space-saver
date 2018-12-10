@@ -1,5 +1,3 @@
-# Disk Space Saver 
-
 # [Disk Space Saver](http://qiplex.com/software/disk-space-saver/)
 
 ### Disk Space Analyzer that saves  hundreds of gigabytes! 
