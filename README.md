@@ -8,5 +8,5 @@
 
 
 
-![Disk Space Saver](http://qiplex.com/img/disk-space-saver-app.gif)
+![Disk Space Saver](http://qiplex.com/img/disk-space-saver-app.png)
 
