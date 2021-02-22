@@ -2,7 +2,7 @@
 
 
 
-### Disk Space Analyzer that saves  hundreds of gigabytes on Windows, macOS and Linux. 
+### Disk Space Analyzer that saves  hundreds of gigabytes on Windows, macOS and Linux
 
 ### More info: https://qiplex.com/software/disk-space-saver/
 
